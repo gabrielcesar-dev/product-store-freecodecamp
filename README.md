@@ -27,6 +27,15 @@ This project is a MERN stack application developed as part of the FreeCodeCamp c
     cd ..
     ```
 
+4. Set up the environment variables:
+
+    Create a `.env` file in the root directory and add the following variables:
+
+    ```plaintext
+    MONGO_URI=your_mongodb_connection_string
+    PORT=your_port_number
+    ```
+
 ## Usage
 
 1. Start the backend server:
